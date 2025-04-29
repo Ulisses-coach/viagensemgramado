@@ -1,0 +1,71 @@
+html,
+body {
+    background-color:black;
+}
+
+.box1 {
+    width: 100%;
+    background-color: black;
+
+}
+
+
+
+.box1 img {
+
+    float: none;
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    
+}
+
+
+
+.box1>h1 {
+    text-align:left;
+    color: white;
+}
+.box1>p {
+    text-align:left;
+    color: white;
+    font-size: 20px;
+}
+.box2 img {
+
+    float: none;
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    
+}
+.box2>h1 {
+    text-align:left;
+    color: white;
+}
+.box2>p {
+    text-align:left;
+    color: white;
+    font-size: 20px;
+}
+.box3 img {
+
+    float: none;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    
+}
+.box3>h1 {
+    text-align:left;
+    color: white;
+}
+.box3>p {
+    text-align:left;
+    color: white;
+    font-size: 20px;
+}
+.box3>h2 {
+    text-align:left;
+    color: white;
+}

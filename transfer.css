@@ -3,6 +3,27 @@ body {
     background-color:black;
 }
 
+.box {
+    width: 100%;
+    background-color: black;
+
+}
+
+.box img {
+    clear:none;
+    float:none;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}    
+
+
+.box>h2 {
+    clear: both;
+    text-align:start;
+    color: white;
+    font-family:cursive;
+}
 .box1 {
     width: 100%;
     background-color: black;
@@ -12,8 +33,8 @@ body {
 
 
 .box1 img {
-
-    float: none;
+    
+    float:none;
     width: 400px;
     height: 300px;
     border: 1px solid black;
@@ -25,6 +46,12 @@ body {
 .box1>h1 {
     text-align:left;
     color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+.box1>h2 {
+    text-align:left;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
 }
 .box1>p {
     text-align:left;
@@ -42,6 +69,7 @@ body {
 .box2>h1 {
     text-align:left;
     color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .box2>p {
     text-align:left;

@@ -10,8 +10,7 @@ body {
 }
 
 .box img {
-    clear:none;
-    float:none;
+    margin-left: 40%;
     width: 200px;
     height: 200px;
     border: 1px solid black;
@@ -20,7 +19,7 @@ body {
 
 .box>h2 {
     clear: both;
-    text-align:start;
+    text-align:center;
     color: white;
     font-family:cursive;
 }
